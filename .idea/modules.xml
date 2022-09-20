@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes/DataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaKampOdev.iml" filepath="$PROJECT_DIR$/JavaKampOdev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecapDemo1/RecapDemo1.iml" filepath="$PROJECT_DIR$/RecapDemo1/RecapDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
     </modules>
   </component>
