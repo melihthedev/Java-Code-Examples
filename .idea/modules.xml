@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals/Conditionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes/DataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaKampOdev.iml" filepath="$PROJECT_DIR$/JavaKampOdev.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniProjects/MiniProjects.iml" filepath="$PROJECT_DIR$/MiniProjects/MiniProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecapDemo1/RecapDemo1.iml" filepath="$PROJECT_DIR$/RecapDemo1/RecapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecapDemo2/RecapDemo2.iml" filepath="$PROJECT_DIR$/RecapDemo2/RecapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
     </modules>
