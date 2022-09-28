@@ -1,4 +1,21 @@
 public class Product {
+
+    public Product(int id, String name, String description, int unitPrice, int unitsInStock, String renk){
+        // We can either use constructor block or getter and setter
+        // We pass given params while creating an instance
+        System.out.println("Constructor Block");
+        this.id = id;
+        this.name = name;
+        this.description = description;
+        this.unitPrice = unitPrice;
+        this.unitsInStock = unitsInStock;
+        this.renk = renk;
+    }
+
+    public Product() {
+        // If we don't pass params while creating an instance, this block will work
+        System.out.println("Created without constructor");
+    }
     private int id;
     private String name;
     private double unitPrice;
