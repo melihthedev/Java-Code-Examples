@@ -1,1 +1,1 @@
-# This is the first homework of the Java Camp by Engin Demiroğ
+# This is the repo for the homeworks given in the Java Camp by Engin Demiroğ
