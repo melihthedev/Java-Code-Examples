@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class AskerKrediManager {
+public class AskerKrediManager extends BaseKrediManager{
 }

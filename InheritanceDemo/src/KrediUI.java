@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class KrediUI {
+public class KrediUI {
+    public void KrediHesapla(BaseKrediManager baseKrediManager){
+        // User Interface
+        baseKrediManager.Hesapla();
+    }
+
 }
