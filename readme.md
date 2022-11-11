@@ -1,1 +1,1 @@
-# This is the repo for the homeworks given in the Java Camp by Engin Demiroğ
+# This repo contains code examples about different topics in Java.
